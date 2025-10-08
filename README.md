@@ -57,6 +57,44 @@
 | 27   | [Programme_27.java](./UNIVERSITY/DSA/src/Programme_27.java) | Sort an array using Merge Sort algorithm |
 
 ---
+# 📘 GITHUB Programming Challanges Index
+
+## 🔹 Array-Based Programs
+
+| S.No | Program Title | Description | File Link |
+|------|----------------|-------------|------------|
+| 1 | Insert and Delete in 1D Array | Write a program to insert and delete an element in a 1-D array. | [Question_01.java](UNIVERSITY/GITHUB/src/Question_01.java) |
+| 2 | Reverse an Array | Write a program to reverse an array. | [Question_02.java](UNIVERSITY/GITHUB/src/Question_02.java) |
+| 3 | 2D Array Operations | Write a program to implement addition and multiplication of two 2D arrays. | [Question_03.java](UNIVERSITY/GITHUB/src/Question_03.java) |
+| 4 | Find Max and Min in Array | Write a program to implement max and min in arrays. | [Question_04.java](UNIVERSITY/GITHUB/src/Question_04.java) |
+
+---
+
+## 🔹 Recursion and Iteration Programs
+
+| S.No | Program Title | Description | File Link |
+|------|----------------|-------------|------------|
+| 5 | Factorial (Iteration & Recursion) | Write a program to find factorial of any number using iteration and recursion. | [Question_05.java](UNIVERSITY/GITHUB/src/Question_05.java) |
+| 6 | Fibonacci Series (Iteration & Recursion) | Write a program to find Fibonacci series till a number using iteration and recursion. | [Question_06.java](UNIVERSITY/GITHUB/src/Question_06.java) |
+| 7 | Tower of Hanoi | Write a program to implement Tower of Hanoi problem. | [Question_07.java](UNIVERSITY/GITHUB/src/Question_07.java) |
+| 8 | Print 1 to N using Recursion | You are given an integer `n`. Print all numbers from 1 to n using recursion only. | [Question_08.java](UNIVERSITY/GITHUB/src/Question_08.java) |
+| 9 | Sum of First N Natural Numbers | Write a program to calculate the sum of first N natural numbers using recursion. | [Question_09.java](UNIVERSITY/GITHUB/src/Question_09.java) |
+
+---
+
+## 🔹 Number System and Math Programs
+
+| S.No | Program Title | Description | File Link |
+|------|----------------|-------------|------------|
+| 10 | Binary ↔ Decimal Conversion | Write a program to convert Binary to Decimal and vice versa. | [Question_10.java](UNIVERSITY/GITHUB/src/Question_10.java) |
+| 11 | Find All Divisors of a Number | Write a program to find all divisors of a number. | [Question_11.java](UNIVERSITY/GITHUB/src/Question_11.java) |
+
+---
+
+📄 **Total Programs:** 11  
+🧠 **Topics Covered:** Arrays, Recursion, Iteration, Number Systems, Mathematical Logic  
+🚀 **Repository Path:** `UNIVERSITY/GITHUB/src`
+---
 # 📝 Programming SEM III — JAVA[UNIVERSITY] Index
 
 | S.No | Question File | Description |
