@@ -28,30 +28,33 @@
 
 | S.No | Question File | Description |
 |------|---------------|-------------|
-| 1    | [Programme_01.java](./UNIVERSITY/DSA/src/Programme_01.java) | Sum of first n natural numbers |
-| 2    | [Programme_02.java](./UNIVERSITY/DSA/src/Programme_02.java) | Factorial of a number |
-| 3    | [Programme_03.java](./UNIVERSITY/DSA/src/Programme_03.java) | Check prime number |
-| 4    | [Programme_04.java](./UNIVERSITY/DSA/src/Programme_04.java) | Reverse a string |
-| 5    | [Programme_05.java](./UNIVERSITY/DSA/src/Programme_05.java) | Linear search |
-| 6    | [Programme_06.java](./UNIVERSITY/DSA/src/Programme_06.java) | Binary search |
-| 7    | [Programme_07.java](./UNIVERSITY/DSA/src/Programme_07.java) | Find largest element in array |
-| 8    | [Programme_08.java](./UNIVERSITY/DSA/src/Programme_08.java) | Find smallest element in array |
-| 9    | [Programme_09.java](./UNIVERSITY/DSA/src/Programme_09.java) | Check palindrome number |
-| 10   | [Programme_10.java](./UNIVERSITY/DSA/src/Programme_10.java) | Fibonacci series |
-| 11   | [Programme_11.java](./UNIVERSITY/DSA/src/Programme_11.java) | Find factors of a number |
-| 12   | [Programme_12.java](./UNIVERSITY/DSA/src/Programme_12.java) | Armstrong number check |
-| 13   | [Programme_13.java](./UNIVERSITY/DSA/src/Programme_13.java) | Sum of digits |
-| 14   | [Programme_14.java](./UNIVERSITY/DSA/src/Programme_14.java) | GCD (Greatest Common Divisor) |
-| 15   | [Programme_15.java](./UNIVERSITY/DSA/src/Programme_15.java) | LCM (Least Common Multiple) |
-| 16   | [Programme_16.java](./UNIVERSITY/DSA/src/Programme_16.java) | Array sorting (Bubble Sort) |
-| 17   | [Programme_17.java](./UNIVERSITY/DSA/src/Programme_17.java) | Array sorting (Selection Sort) |
-| 18   | [Programme_18.java](./UNIVERSITY/DSA/src/Programme_18.java) | Array sorting (Insertion Sort) |
-| 19   | [Programme_19.java](./UNIVERSITY/DSA/src/Programme_19.java) | Matrix addition |
-| 20   | [Programme_20.java](./UNIVERSITY/DSA/src/Programme_20.java) | Matrix multiplication |
-| 21   | [Programme_21.java](./UNIVERSITY/DSA/src/Programme_21.java) | Transpose of matrix |
-| 22   | [Programme_22.java](./UNIVERSITY/DSA/src/Programme_22.java) | Sparse matrix representation |
-| 23   | [Programme_23.java](./UNIVERSITY/DSA/src/Programme_23.java) | Find first & last occurrence in sorted array |
-| 24   | [Programme_24.java](./UNIVERSITY/DSA/src/Programme_24.java) | Merge two arrays |
+| 1    | [Programme_01.java](./UNIVERSITY/DSA/src/Programme_01.java) | Input and display elements of an array |
+| 2    | [Programme_02.java](./UNIVERSITY/DSA/src/Programme_02.java) | Display array elements in reverse order |
+| 3    | [Programme_03.java](./UNIVERSITY/DSA/src/Programme_03.java) | Insert elements interactively into an array |
+| 4    | [Programme_04.java](./UNIVERSITY/DSA/src/Programme_04.java) | Reverse array elements in place |
+| 5    | [Programme_05.java](./UNIVERSITY/DSA/src/Programme_05.java) | Find sum of all elements in an array |
+| 6    | [Programme_06.java](./UNIVERSITY/DSA/src/Programme_06.java) | Find the middle element of an array |
+| 7    | [Programme_07.java](./UNIVERSITY/DSA/src/Programme_07.java) | Insert an element at a specific index in an array |
+| 8    | [Programme_08.java](./UNIVERSITY/DSA/src/Programme_08.java) | Delete a specific element from an array |
+| 9    | [Programme_09.java](./UNIVERSITY/DSA/src/Programme_09.java) | Remove the last element from an array |
+| 10   | [Programme_10.java](./UNIVERSITY/DSA/src/Programme_10.java) | Remove a user-specified element from an array |
+| 11   | [Programme_11.java](./UNIVERSITY/DSA/src/Programme_11.java) | Create and display a 2D array using user input |
+| 12   | [Programme_12.java](./UNIVERSITY/DSA/src/Programme_12.java) | Perform sum, min/max, and even/odd count in a 2D array |
+| 13   | [Programme_13.java](./UNIVERSITY/DSA/src/Programme_13.java) | Work with a jagged 2D array and perform sum, min/max, even/odd count |
+| 14   | [Programme_14.java](./UNIVERSITY/DSA/src/Programme_14.java) | Display number and star patterns using nested loops |
+| 15   | [Programme_15.java](./UNIVERSITY/DSA/src/Programme_15.java) | Find factorial of a number using recursion |
+| 16   | [Programme_16.java](./UNIVERSITY/DSA/src/Programme_16.java) | Find nth Fibonacci number using recursion |
+| 17   | [Programme_17.java](./UNIVERSITY/DSA/src/Programme_17.java) | Find nth Fibonacci number using iterative approach |
+| 18   | [Programme_18.java](./UNIVERSITY/DSA/src/Programme_18.java) | Print numbers recursively in descending order (recflow method) |
+| 19   | [Programme_19.java](./UNIVERSITY/DSA/src/Programme_19.java) | Print numbers recursively using a separate recursive print method |
+| 20   | [Programme_20.java](./UNIVERSITY/DSA/src/Programme_20.java) | Demonstrate head and tail recursion for forward and backward printing |
+| 21   | [Programme_21.java](./UNIVERSITY/DSA/src/Programme_21.java) | Calculate sum of natural numbers using accumulator recursion |
+| 22   | [Programme_22.java](./UNIVERSITY/DSA/src/Programme_22.java) | Search two given numbers in an array using linear search |
+| 23   | [Programme_23.java](./UNIVERSITY/DSA/src/Programme_23.java) | Implement binary search on a sorted array |
+| 24   | [Programme_24.java](./UNIVERSITY/DSA/src/Programme_24.java) | Find first and last occurrence of a number in a sorted array |
+| 25   | [Programme_25.java](./UNIVERSITY/DSA/src/Programme_25.java) | Sort an array using Selection Sort algorithm |
+| 26   | [Programme_26.java](./UNIVERSITY/DSA/src/Programme_26.java) | Create multiple arrays (2D jagged style) dynamically using user input |
+| 27   | [Programme_27.java](./UNIVERSITY/DSA/src/Programme_27.java) | Sort an array using Merge Sort algorithm |
 
 ---
 # 📝 Programming SEM III — JAVA[UNIVERSITY] Index
