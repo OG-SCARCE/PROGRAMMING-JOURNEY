@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class programme_7 {
+public class programme_07 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("ENTER FIRST NUMBER : ");

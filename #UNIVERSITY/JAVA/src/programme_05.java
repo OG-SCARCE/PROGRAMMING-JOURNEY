@@ -17,7 +17,7 @@ class D implements C {
     }
 }
 
-public class programme_5 {
+public class programme_05 {
     public static void main(String[] args) {
         D obj = new D();
         obj.showA();

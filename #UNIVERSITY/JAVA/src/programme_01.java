@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class programme_1 {
+public class programme_01 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("ENTER THE NUMBER OF LINES YOU WANT IN THE PATTERN :");

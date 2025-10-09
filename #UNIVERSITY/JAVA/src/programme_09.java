@@ -5,7 +5,7 @@ class LowAmountException extends Exception {
         super(message);
     }
 }
-public class programme_9 {
+public class programme_09 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("ENTER FIRST SALARY : ");

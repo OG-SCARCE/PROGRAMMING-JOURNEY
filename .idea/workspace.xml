@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da7bcc14-e2ac-449d-b2e1-f8e57ca37d47" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/#UNIVERSITY/JAVA/src/programme_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/#UNIVERSITY/JAVA/src/programme_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/#UNIVERSITY/JAVA/src/programme_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/#UNIVERSITY/JAVA/src/programme_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/#UNIVERSITY/JAVA/src/programme_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/#UNIVERSITY/JAVA/src/programme_13.java" afterDir="false" />
-    </list>
+    <list default="true" id="da7bcc14-e2ac-449d-b2e1-f8e57ca37d47" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +32,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Programme_01.executor": "Run",
+    "Application.programme_11.executor": "Run",
+    "Application.programme_12.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",

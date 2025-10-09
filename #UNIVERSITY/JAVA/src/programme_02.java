@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class programme_2 {
+public class programme_02 {
     static class Box {
         double width;
         double height;

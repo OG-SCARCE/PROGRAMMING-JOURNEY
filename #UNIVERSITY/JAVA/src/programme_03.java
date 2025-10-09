@@ -32,7 +32,7 @@ class Student extends Section52 {
     }
 }
 
-public class programme_3 {
+public class programme_03 {
     public static void main(String[] args) {
         Student d = new Student("Aman", "24SCSE1260003");
         d.Attendance();
