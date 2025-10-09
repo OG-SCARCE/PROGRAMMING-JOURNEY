@@ -115,6 +115,111 @@
 | 10 | HashMap Operations | Implement a simple **HashMap** to store book IDs and titles. Demonstrates `put()`, `get()`, `remove()`, and `entrySet()` methods to manage and display data. | [programme_10.java](%23UNIVERSITY/JAVA/src/programme_10.java) |
 
 ---
+# 📘 YOUTUBE: 50 Programming Challenges Index
+
+## 🔹 Getting Started & I/O
+
+| S.No | Program Title | Description | File Link |
+|:----:|----------------|-------------|:-----------:|
+| 1 | Simple Class Output | Create a class to output "good morning" using a text editor and check output. | [Question_01.java](#) |
+| 2 | IntelliJ Project Setup | Create a new Project in IntelliJ Idea and output "subscribe" on the console. | [Question_02.java](#) |
+| 5 | User Input and Welcome Message | Create a program to input the name of the person and respond with "Welcome NAME to KG Coding". | [Question_05.java](#) |
+
+---
+
+## 🔹 Pattern Printing
+
+| S.No | Program Title | Description | File Link |
+|:----:|----------------|-------------|:-----------:|
+| 3 | Basic Pattern Printing | Show the Right Half Pyramid, Reverse Right Half Pyramid, and Left Half Pyramid patterns. | [Question_03.java](#) |
+| 4 | Patterns with Single Print | Show the same patterns as above using a single print statement. | [Question_04.java](#) |
+| 39 | More Pattern Printing | Create a program that prints Right Half Pyramid, Reverse Right Half Pyramid, and Left Half Pyramid patterns. | [Question_39.java](#) |
+
+---
+
+## 🔹 Basic Math & Formulas
+
+| S.No | Program Title | Description | File Link |
+|:----:|----------------|-------------|:-----------:|
+| 6 | Add Two Numbers | Create a program to add two numbers. | [Question_06.java](#) |
+| 7 | Swap Two Numbers | Create a program to swap two numbers. | [Question_07.java](#) |
+| 8 | All Arithmetic Operators | Create a program that takes two numbers and shows the result of all arithmetic operators (+, -, *, /, %). | [Question_08.java](#) |
+| 9 | Product of Floats | Create a program to calculate the product of two floating-point numbers. | [Question_09.java](#) |
+| 10 | Perimeter of Rectangle | Create a program to calculate the Perimeter of a rectangle. | [Question_10.java](#) |
+| 11 | Area of Triangle | Create a program to calculate the Area of a Triangle. | [Question_11.java](#) |
+| 12 | Simple Interest | Create a program to calculate simple interest. $SI = (P \times T \times R) / 100$. | [Question_12.java](#) |
+| 13 | Compound Interest | Create a program to calculate Compound interest. $CI = P(1 + R/100)^t$. | [Question_13.java](#) |
+| 14 | Fahrenheit to Celsius | Create a program to convert Fahrenheit to Celsius. $°C = (°F - 32) \times 5/9$. | [Question_14.java](#) |
+
+---
+
+## 🔹 Conditional Logic
+
+| S.No | Program Title | Description | File Link |
+|:----:|----------------|-------------|:-----------:|
+| 15 | Positive, Negative, or Zero | Create a program that determines if a number is positive, negative, or zero. | [Question_15.java](#) |
+| 16 | Odd or Even | Create a program that determines if a number is odd or even. | [Question_16.java](#) |
+| 17 | Greatest of Three Numbers | Create a program that determines the greatest of the three numbers. | [Question_17.java](#) |
+| 18 | Leap Year Check | Create a program that determines if a given year is a leap year. | [Question_18.java](#) |
+| 19 | Calculate Grades | Create a program that calculates grades based on marks. | [Question_19.java](#) |
+| 20 | Categorize by Age | Create a program that categorizes a person into different age groups. | [Question_20.java](#) |
+
+---
+
+## 🔹 Bitwise Operations
+
+| S.No | Program Title | Description | File Link |
+|:----:|----------------|-------------|:-----------:|
+| 21 | Bitwise AND | Create a program that shows bitwise AND of two numbers. | [Question_21.java](#) |
+| 22 | Bitwise OR | Create a program that shows bitwise OR of two numbers. | [Question_22.java](#) |
+| 23 | Bitwise XOR | Create a program that shows bitwise XOR of two numbers. | [Question_23.java](#) |
+| 24 | Bitwise Complement | Create a program that shows the bitwise complement of a number. | [Question_24.java](#) |
+| 25 | Left Shift Operator | Create a program that shows the use of the left shift operator. | [Question_25.java](#) |
+| 26 | Right Shift Operator | Create a program that shows the use of the right shift operator. | [Question_26.java](#) |
+| 27 | Even/Odd with Bitwise | Write a program to check if a given number is even or odd using bitwise operators. | [Question_27.java](#) |
+
+---
+
+## 🔹 Loops & Number Theory
+
+| S.No | Program Title | Description | File Link |
+|:----:|----------------|-------------|:-----------:|
+| 28 | Multiplication Table | Develop a program that prints the multiplication table for a given number. | [Question_28.java](#) |
+| 29 | Sum of Odd Numbers | Create a program to sum all odd numbers from 1 to a specified number N. | [Question_29.java](#) |
+| 30 | Factorial of a Number | Write a function that calculates the factorial of a given number. | [Question_30.java](#) |
+| 31 | Sum of Digits | Create a program that computes the sum of the digits of an integer. | [Question_31.java](#) |
+| 32 | Least Common Multiple (LCM) | Create a program to find the Least Common Multiple (LCM) of two numbers. | [Question_32.java](#) |
+| 33 | Greatest Common Divisor (GCD) | Create a program to find the Greatest Common Divisor (GCD) of two integers. | [Question_33.java](#) |
+| 34 | Prime Number Check | Create a program to check whether a given number is prime. | [Question_34.java](#) |
+| 35 | Reverse Digits of a Number | Create a program to reverse the digits of a number. | [Question_35.java](#) |
+| 36 | Fibonacci Series | Create a program to print the Fibonacci series up to a certain number. | [Question_36.java](#) |
+| 37 | Armstrong Number Check | Create a program to check if a number is an Armstrong number. | [Question_37.java](#) |
+| 38 | Palindrome Number Check | Create a program to verify if a number is a palindrome. | [Question_38.java](#) |
+
+---
+
+## 🔹 Array-Based Programs
+
+| S.No | Program Title | Description | File Link |
+|:----:|----------------|-------------|:-----------:|
+| 40 | Sum and Average of Array | Create a program to find the sum and average of all elements in an array. | [Question_40.java](#) |
+| 41 | Count Occurrences in Array | Create a program to find the number of occurrences of an element in an array. | [Question_41.java](#) |
+| 42 | Max and Min in Array | Create a program to find the maximum and minimum element in an array. | [Question_42.java](#) |
+| 43 | Check if Array is Sorted | Create a program to check if the given array is sorted. | [Question_43.java](#) |
+| 44 | Delete Element from Array | Create a program to return a new array deleting a specific element. | [Question_44.java](#) |
+| 45 | Reverse an Array | Create a program to reverse an array. | [Question_45.java](#) |
+| 46 | Palindrome Array Check | Create a program to check if the array is a palindrome or not. | [Question_46.java](#) |
+| 47 | Merge Two Sorted Arrays | Create a program to merge two sorted arrays. | [Question_47.java](#) |
+| 48 | Search in 2D Array | Create a program to search an element in a 2-D array. | [Question_48.java](#) |
+| 49 | Sum and Average of 2D Array | Create a program to do the sum and average of all elements in a 2-D array. | [Question_49.java](#) |
+| 50 | Sum of Diagonal Elements | Create a program to find the sum of two diagonal elements. | [Question_50.java](#) |
+
+---
+
+📄 **Total Programs:** 50  
+🧠 **Topics Covered:** I/O, Patterns, Math, Conditionals, Bitwise Ops, Loops, Number Theory, Arrays  
+🚀 **Repository Path:** `KG_CODING/SOLUTIONS/src`
+---
 
 ## 🚀 Usage
 
