@@ -4,7 +4,7 @@ public class programme_12{
         HashMap<Integer,String> hm=new HashMap<>();
         hm.put(1,"skt");
         hm.put(2,"aks");
-        hm.put(2,"abs");//overwrite aks to abs
+        hm.put(2,"abs");
         System.out.println(hm);
     }
 }
