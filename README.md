@@ -97,23 +97,22 @@
 ---
 # 📝 Programming SEM III — JAVA[UNIVERSITY] Index
 
-| S.No | Question File | Description |
-|------|---------------|-------------|
-| 1    | [Question_1.java](./Question_1.java) | Print sum of first n natural numbers |
-| 2    | [Question_2.java](./Question_2.java) | Find factorial of a number |
-| 3    | [Question_3.java](./Question_3.java) | Check prime number |
-| 4    | [Question_4.java](./Question_4.java) | Reverse a string |
-| 5    | [Question_5.java](./Question_5.java) | Linear search implementation |
-| 6    | [Question_6.java](./Question_6.java) | Binary search implementation |
-| 7    | [Question_7.java](./Question_7.java) | Find largest element in array |
-| 8    | [Question_8.java](./Question_8.java) | Find smallest element in array |
-| 9    | [Question_9.java](./Question_9.java) | Check palindrome number |
-| 10   | [Question_10.java](./Question_10.java) | Fibonacci series |
-| 11   | [Question_11.java](./Question_11.java) | Find factors of a number |
-| 12   | [Question_12.java](./Question_12.java) | Armstrong number check |
-| 13   | [Question_13.java](./Question_13.java) | Sum of digits |
-| 14   | [Question_14.java](./Question_14.java) | Greatest Common Divisor (GCD) |
-| 15   | [Question_15.java](./Question_15.java) | Least Common Multiple (LCM) |
+# 📘 GITHUB Programming Challenges Index
+
+## 🔹 Java OOP & Exception Handling Programs
+
+| S.No | Program Title | Description | File Link |
+|------|----------------|-------------|------------|
+| 1 | Number & Star Patterns | Write a program to display numeric and star (`*`) patterns using nested loops. The program prints increasing number and star triangles based on user input. | [programme_01.java](%23UNIVERSITY/JAVA/src/programme_01.java) |
+| 2 | Constructor Overloading (Box Class) | Demonstrate **constructor overloading** by creating a `Box` class with multiple constructors. Each constructor initializes the box with different parameters and calculates its volume. | [programme_02.java](%23UNIVERSITY/JAVA/src/programme_02.java) |
+| 3 | Inheritance and Method Overriding | Implement **inheritance** between `Section52` and `Student` classes. The student class overrides the `Attendance()` method and demonstrates use of `super` keyword. | [programme_03.java](%23UNIVERSITY/JAVA/src/programme_03.java) |
+| 4 | Abstract Class and Final Method | Demonstrate an **abstract class** `Animal` with a `sound()` method and a `final` method `eat()`. The subclass `Dog` overrides `sound()` and inherits `eat()`. | [programme_04.java](%23UNIVERSITY/JAVA/src/programme_04.java) |
+| 5 | Multiple Inheritance using Interfaces | Create interfaces `A`, `B`, and `C` (where `C` extends both `A` and `B`). Class `D` implements `C` and defines methods `showA()` and `showB()`. Demonstrates **multiple inheritance through interfaces**. | [programme_05.java](%23UNIVERSITY/JAVA/src/programme_05.java) |
+| 6 | Exception Handling — Division by Zero | Accept two numbers and perform division. If the second number is zero, throw and catch an **ArithmeticException** with a custom error message. | [programme_06.java](%23UNIVERSITY/JAVA/src/programme_06.java) |
+| 7 | Handling Multiple Exceptions | Demonstrate handling of **multiple exceptions** — division by zero and array index out of range. Uses `try-catch` blocks for both scenarios. | [programme_07.java](%23UNIVERSITY/JAVA/src/programme_07.java) |
+| 8 | Finally Block Example | Use a `try-catch-finally` block to safely take user input and display a message from the `finally` block regardless of exceptions. | [programme_08.java](%23UNIVERSITY/JAVA/src/programme_08.java) |
+| 9 | Custom Exception — LowAmountException | Create a custom exception `LowAmountException` that triggers when a user enters a salary below 10,000. Demonstrates **user-defined exception handling**. | [programme_09.java](%23UNIVERSITY/JAVA/src/programme_09.java) |
+| 10 | HashMap Operations | Implement a simple **HashMap** to store book IDs and titles. Demonstrates `put()`, `get()`, `remove()`, and `entrySet()` methods to manage and display data. | [programme_10.java](%23UNIVERSITY/JAVA/src/programme_10.java) |
 
 ---
 
