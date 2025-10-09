@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da7bcc14-e2ac-449d-b2e1-f8e57ca37d47" name="Changes" comment="" />
+    <list default="true" id="da7bcc14-e2ac-449d-b2e1-f8e57ca37d47" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/#YOUTUBE/src/Challenge_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/#YOUTUBE/src/Challenge_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#YOUTUBE/src/Challenge_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/#YOUTUBE/src/Challenge_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#YOUTUBE/src/Challenge_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/#YOUTUBE/src/Challenge_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#YOUTUBE/src/Challenge_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/#YOUTUBE/src/Challenge_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#YOUTUBE/src/Challenge_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/#YOUTUBE/src/Challenge_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#YOUTUBE/src/Challenge_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/#YOUTUBE/src/Challenge_06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#YOUTUBE/src/Challenge_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/#YOUTUBE/src/Challenge_07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#YOUTUBE/src/Challenge_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/#YOUTUBE/src/Challenge_08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#YOUTUBE/src/Challenge_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/#YOUTUBE/src/Challenge_09.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +41,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Challenge_01.executor": "Run",
+    "Application.Challenge_08.executor": "Run",
+    "Application.Challenge_09.executor": "Run",
     "Application.Programme_01.executor": "Run",
+    "Application.programme_05.executor": "Run",
     "Application.programme_11.executor": "Run",
     "Application.programme_12.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
