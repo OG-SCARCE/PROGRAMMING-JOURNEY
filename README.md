@@ -118,25 +118,32 @@
 
 ## 🚀 Usage
 
-# Clone this neon repo
-git clone https://github.com/OG-SCARCE/PROGRAMMING-SEM-III.git
+> *"Wake the machine. Feed it code. Watch it come alive."* ⚙️
 
-# Enter the mainframe
-cd PROGRAMMING-SEM-III
+# 💾 Clone the Neon Repository
+```git clone https://github.com/OG-SCARCE/PROGRAMMING-SEM-III.git```
 
-# Run Java programs
-javac UniversityFile.java
-java UniversityFile
-⚡ Badges
+# 🧠 Enter the Mainframe
+```cd PROGRAMMING-SEM-III```
 
+# ☕ Run Java Programs
+```javac UniversityFile.java```
 
+“Every bug is a clue. Every error, a lesson.
+Every line, a step deeper into the void.” ⚡
 
-<p align="center"> <img src="https://i.gifer.com/5Mys.gif"/> </p>
+⚡ Badges of Chaos
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=00FFF9&center=true&vCenter=true&width=650&lines=⚡+WELCOME+TO+THE+NEON+GRID+⚡;CODE.+BREAK.+BUILD.+REPEAT.;STAY+SHARP+.+STAY+DARK+.+STAY+HUMAN."> </p> <p align="center"> <img src="https://i.gifer.com/45Ra.gif" width="280px"/> </p>
+"Some code for fame. Others for grades.
+But we — we code for the chaos of creation." 🖤
+
 🖤 Credits
 👤 Scarce
 
+Probably Future Engineer • Coder • Chaos Architect
+"In a world of compilers and chaos, I write in silence — and the code obeys."
+
 GitHub: @OG-SCARCE
 
-Future Engineer ⚡ Dark Coder
-
-<p align="center"> ⭐ If you vibe with this repo, drop a star ⭐ </p> 
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&width=450&lines=🔥+No+Rest+For+The+Coders+🔥;💀+We+Debug+In+The+Dark+💀;⚙️+Machines+Listen+To+Me+⚙️"> </p>
+<p align="center"> ⭐ **If you vibe with this repo, drop a star — feed the neon beast.** ⭐ </p> <p align="center"> <img src="https://i.gifer.com/X5NY.gif" width="350px"/> </p> 
