@@ -97,8 +97,6 @@
 ---
 # 📝 Programming SEM III — JAVA[UNIVERSITY] Index
 
-# 📘 GITHUB Programming Challenges Index
-
 ## 🔹 Java OOP & Exception Handling Programs
 
 | S.No | Program Title | Description | File Link |
@@ -247,12 +245,12 @@ Every line, a step deeper into the void.” ⚡
 But we — we code for the chaos of creation." 🖤
 
 🖤 Credits
-👤 Scarce
+```👤 Scarce```
 
 Probably Future Engineer • Coder • Chaos Architect
 "In a world of compilers and chaos, I write in silence — and the code obeys."
 
-GitHub: @OG-SCARCE
+GitHub: ```@OG-SCARCE```
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&width=450&lines=🔥+No+Rest+For+The+Coders+🔥;💀+We+Debug+In+The+Dark+💀;⚙️+Machines+Listen+To+Me+⚙️"> </p>
 <p align="center"> ⭐ **If you vibe with this repo, drop a star — feed the neon beast.** ⭐ </p> <p align="center"> <img src="https://i.gifer.com/X5NY.gif" width="350px"/> </p> 
