@@ -113,6 +113,10 @@
 | 8 | Finally Block Example | Use a `try-catch-finally` block to safely take user input and display a message from the `finally` block regardless of exceptions. | [programme_08.java](%23UNIVERSITY/JAVA/src/programme_08.java) |
 | 9 | Custom Exception — LowAmountException | Create a custom exception `LowAmountException` that triggers when a user enters a salary below 10,000. Demonstrates **user-defined exception handling**. | [programme_09.java](%23UNIVERSITY/JAVA/src/programme_09.java) |
 | 10 | HashMap Operations | Implement a simple **HashMap** to store book IDs and titles. Demonstrates `put()`, `get()`, `remove()`, and `entrySet()` methods to manage and display data. | [programme_10.java](%23UNIVERSITY/JAVA/src/programme_10.java) |
+| 11 | ArrayList Operations | Demonstrates usage of **ArrayList** in Java. Shows how to add, access, update, remove, and loop through elements, along with retrieving the size of the list. | [programme_11.java](%23UNIVERSITY/JAVA/src/programme_11.java) |
+| 12 | HashMap Example | Implements a simple **HashMap** storing integer keys and string values. Shows insertion, overwriting existing values, and displaying the map. | [programme_12.java](%23UNIVERSITY/JAVA/src/programme_12.java) |
+| 13 | HashSet and Iterator | Demonstrates a **HashSet** for storing unique integers. Shows automatic duplicate removal and iterating over the set using an `Iterator`. | [programme_13.java](%23UNIVERSITY/JAVA/src/programme_13.java) |
+
 
 ---
 # 📘 YOUTUBE: Programming Challenges Index
