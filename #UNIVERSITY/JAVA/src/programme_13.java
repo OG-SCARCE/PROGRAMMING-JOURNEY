@@ -9,7 +9,7 @@ public class programme_13{
         //iterator
         Iterator<Integer> i=hs.iterator();
         while(i.hasNext()){//jab tak value hai hasNext return karta rahege
-            System.out.println(i.next());//jab tak value hai next print karta rahega
+            System.out.println(i.next());//jab tak value hai next print kartarahega
         }
     }
 }
