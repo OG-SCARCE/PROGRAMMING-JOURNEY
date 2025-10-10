@@ -55,6 +55,7 @@
 | 25   | [Programme_25.java](./#UNIVERSITY/DSA/src/Programme_25.java) | Sort an array using Selection Sort algorithm |
 | 26   | [Programme_26.java](./#UNIVERSITY/DSA/src/Programme_26.java) | Create multiple arrays (2D jagged style) dynamically using user input |
 | 27   | [Programme_27.java](./#UNIVERSITY/DSA/src/Programme_27.java) | Sort an array using Merge Sort algorithm |
+| 28   | [Programme_28.java](./#UNIVERSITY/DSA/src/Programme_28.java) | Sort an array of 0s, 1s, and 2s in O(n) time using the Dutch National Flag algorithm |
 
 ---
 # 📘 GITHUB Programming Challenges Index
