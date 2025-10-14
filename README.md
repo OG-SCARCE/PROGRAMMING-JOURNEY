@@ -56,6 +56,8 @@
 | 26   | [Programme_26.java](./%23UNIVERSITY/DSA/src/Programme_26.java) | Create multiple arrays (2D jagged style) dynamically using user input |
 | 27   | [Programme_27.java](./%23UNIVERSITY/DSA/src/Programme_27.java) | Sort an array using Merge Sort algorithm |
 | 28   | [Programme_28.java](./%23UNIVERSITY/DSA/src/Programme_28.java) | Sort an array of 0s, 1s, and 2s in O(n) time using the Dutch National Flag algorithm |
+| 30   | [Programme_30.java](./%23UNIVERSITY/DSA/src/Programme_30.java) | Implementation of a custom LinkedList in Java with insert (at head, end, and index), delete, get, and display operations. Demonstrates pointer manipulation and list traversal logic. |
+
 
 ---
 # 📘 GITHUB Programming Challenges Index
