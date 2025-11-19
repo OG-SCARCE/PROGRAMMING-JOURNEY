@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da7bcc14-e2ac-449d-b2e1-f8e57ca37d47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/#UNIVERSITY/JAVA/src/programme_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#UNIVERSITY/DSA/src/Programme_31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#UNIVERSITY/DSA/src/Programme_32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#UNIVERSITY/DSA/src/Programme_33.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +26,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
+  &quot;customColor&quot;: &quot;807a704d&quot;,
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="33oZtPZcSqGJVYqtTZAwbIT2Xdd" />
@@ -39,6 +41,9 @@
     "Application.Challenge_09.executor": "Run",
     "Application.Programme_01.executor": "Run",
     "Application.Programme_28.executor": "Run",
+    "Application.Programme_31.executor": "Run",
+    "Application.Programme_32.executor": "Run",
+    "Application.Programme_33.executor": "Run",
     "Application.programme_05.executor": "Run",
     "Application.programme_11.executor": "Run",
     "Application.programme_12.executor": "Run",
