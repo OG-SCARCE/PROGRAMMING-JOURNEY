@@ -56,7 +56,11 @@
 | 26   | [Programme_26.java](./%23UNIVERSITY/DSA/src/Programme_26.java) | Create multiple arrays (2D jagged style) dynamically using user input |
 | 27   | [Programme_27.java](./%23UNIVERSITY/DSA/src/Programme_27.java) | Sort an array using Merge Sort algorithm |
 | 28   | [Programme_28.java](./%23UNIVERSITY/DSA/src/Programme_28.java) | Sort an array of 0s, 1s, and 2s in O(n) time using the Dutch National Flag algorithm |
-| 30   | [Programme_30.java](./%23UNIVERSITY/DSA/src/Programme_30.java) | Implementation of a custom LinkedList in Java with insert (at head, end, and index), delete, get, and display operations. Demonstrates pointer manipulation and list traversal logic. |
+| 30 | [Programme_30.java](./%23UNIVERSITY/DSA/src/Programme_30.java) | Implementation of a custom LinkedList in Java with insert (at head, end, and index), delete, get, and display operations. Demonstrates pointer manipulation and list traversal logic. |
+| 31 | [Programme_31.java](./%23UNIVERSITY/DSA/src/Programme_31.java) | Implementation of a Doubly Linked List with sequential tail insertion and forward traversal. Demonstrates bidirectional node linking using `prev` and `next`. |
+| 32 | [Programme_32.java](./%23UNIVERSITY/DSA/src/Programme_32.java) | Polynomial representation using a singly linked list, storing coefficients and exponents in each node. Shows how traversal reconstructs the polynomial expression. |
+| 33 | [Programme_33.java](./%23UNIVERSITY/DSA/src/Programme_33.java) | Reversing a singly linked list using pointer rewiring (`prev`, `curr`, `next`). Performs in-place list reversal with O(n) time and O(1) space complexity. |
+| 34 | [Programme_34.java](./%23UNIVERSITY/DSA/src/Programme_34.java) | Graph implementation using an adjacency list, supporting directed and undirected edges. Demonstrates efficient representation of graph connectivity and neighbor traversal. |
 
 
 ---
