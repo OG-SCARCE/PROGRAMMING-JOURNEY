@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da7bcc14-e2ac-449d-b2e1-f8e57ca37d47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/#UNIVERSITY/DSA/src/Programme_31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#UNIVERSITY/DSA/src/Programme_32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#UNIVERSITY/DSA/src/Programme_33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#UNIVERSITY/DSA/src/Programme_34.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +41,7 @@
     "Application.Programme_31.executor": "Run",
     "Application.Programme_32.executor": "Run",
     "Application.Programme_33.executor": "Run",
+    "Application.Programme_34.executor": "Run",
     "Application.programme_05.executor": "Run",
     "Application.programme_11.executor": "Run",
     "Application.programme_12.executor": "Run",
