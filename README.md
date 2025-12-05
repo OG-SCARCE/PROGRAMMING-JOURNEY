@@ -26,45 +26,46 @@
 ---
 # 📝 Programming SEM III — DSA Index
 
-| S.No | Question File | Description |
-|------|---------------|-------------|
-| 1    | [Programme_01.java](./%23UNIVERSITY/DSA/src/Programme_01.java) | Input and display elements of an array |
-| 2    | [Programme_02.java](./%23UNIVERSITY/DSA/src/Programme_02.java) | Display array elements in reverse order |
-| 3    | [Programme_03.java](./%23UNIVERSITY/DSA/src/Programme_03.java) | Insert elements interactively into an array |
-| 4    | [Programme_04.java](./%23UNIVERSITY/DSA/src/Programme_04.java) | Reverse array elements in place |
-| 5    | [Programme_05.java](./%23UNIVERSITY/DSA/src/Programme_05.java) | Find sum of all elements in an array |
-| 6    | [Programme_06.java](./%23UNIVERSITY/DSA/src/Programme_06.java) | Find the middle element of an array |
-| 7    | [Programme_07.java](./%23UNIVERSITY/DSA/src/Programme_07.java) | Insert an element at a specific index in an array |
-| 8    | [Programme_08.java](./%23UNIVERSITY/DSA/src/Programme_08.java) | Delete a specific element from an array |
-| 9    | [Programme_09.java](./%23UNIVERSITY/DSA/src/Programme_09.java) | Remove the last element from an array |
-| 10   | [Programme_10.java](./%23UNIVERSITY/DSA/src/Programme_10.java) | Remove a user-specified element from an array |
-| 11   | [Programme_11.java](./%23UNIVERSITY/DSA/src/Programme_11.java) | Create and display a 2D array using user input |
-| 12   | [Programme_12.java](./%23UNIVERSITY/DSA/src/Programme_12.java) | Perform sum, min/max, and even/odd count in a 2D array |
-| 13   | [Programme_13.java](./%23UNIVERSITY/DSA/src/Programme_13.java) | Work with a jagged 2D array and perform sum, min/max, even/odd count |
-| 14   | [Programme_14.java](./%23UNIVERSITY/DSA/src/Programme_14.java) | Display number and star patterns using nested loops |
-| 15   | [Programme_15.java](./%23UNIVERSITY/DSA/src/Programme_15.java) | Find factorial of a number using recursion |
-| 16   | [Programme_16.java](./%23UNIVERSITY/DSA/src/Programme_16.java) | Find nth Fibonacci number using recursion |
-| 17   | [Programme_17.java](./%23UNIVERSITY/DSA/src/Programme_17.java) | Find nth Fibonacci number using iterative approach |
-| 18   | [Programme_18.java](./%23UNIVERSITY/DSA/src/Programme_18.java) | Print numbers recursively in descending order (recflow method) |
-| 19   | [Programme_19.java](./%23UNIVERSITY/DSA/src/Programme_19.java) | Print numbers recursively using a separate recursive print method |
-| 20   | [Programme_20.java](./%23UNIVERSITY/DSA/src/Programme_20.java) | Demonstrate head and tail recursion for forward and backward printing |
-| 21   | [Programme_21.java](./%23UNIVERSITY/DSA/src/Programme_21.java) | Calculate sum of natural numbers using accumulator recursion |
-| 22   | [Programme_22.java](./%23UNIVERSITY/DSA/src/Programme_22.java) | Search two given numbers in an array using linear search |
-| 23   | [Programme_23.java](./%23UNIVERSITY/DSA/src/Programme_23.java) | Implement binary search on a sorted array |
-| 24   | [Programme_24.java](./%23UNIVERSITY/DSA/src/Programme_24.java) | Find first and last occurrence of a number in a sorted array |
-| 25   | [Programme_25.java](./%23UNIVERSITY/DSA/src/Programme_25.java) | Sort an array using Selection Sort algorithm |
-| 26   | [Programme_26.java](./%23UNIVERSITY/DSA/src/Programme_26.java) | Create multiple arrays (2D jagged style) dynamically using user input |
-| 27   | [Programme_27.java](./%23UNIVERSITY/DSA/src/Programme_27.java) | Sort an array using Merge Sort algorithm |
-| 28   | [Programme_28.java](./%23UNIVERSITY/DSA/src/Programme_28.java) | Sort an array of 0s, 1s, and 2s in O(n) time using the Dutch National Flag algorithm |
-| 30 | [Programme_30.java](./%23UNIVERSITY/DSA/src/Programme_30.java) | Implementation of a custom LinkedList in Java with insert (at head, end, and index), delete, get, and display operations. Demonstrates pointer manipulation and list traversal logic. |
-| 31 | [Programme_31.java](./%23UNIVERSITY/DSA/src/Programme_31.java) | Implementation of a Doubly Linked List with sequential tail insertion and forward traversal. Demonstrates bidirectional node linking using `prev` and `next`. |
-| 32 | [Programme_32.java](./%23UNIVERSITY/DSA/src/Programme_32.java) | Polynomial representation using a singly linked list, storing coefficients and exponents in each node. Shows how traversal reconstructs the polynomial expression. |
-| 33 | [Programme_33.java](./%23UNIVERSITY/DSA/src/Programme_33.java) | Reversing a singly linked list using pointer rewiring (`prev`, `curr`, `next`). Performs in-place list reversal with O(n) time and O(1) space complexity. |
-| 34 | [Programme_34.java](./%23UNIVERSITY/DSA/src/Programme_34.java) | Graph implementation using an adjacency list, supporting directed and undirected edges. Demonstrates efficient representation of graph connectivity and neighbor traversal. |
-| 35 | [Programme_35.java](./%23UNIVERSITY/DSA/src/Programme_35.java) | Depth First Search (DFS) traversal on an undirected graph using an adjacency list. Demonstrates recursive DFS and visited-array based tracking of explored vertices. |
-| 36 | [Programme_36.java](./%23UNIVERSITY/DSA/src/Programme_36.java) | Array-based stack implementation supporting push, pop, peek, isFull, and isEmpty operations. Illustrates basic stack behavior using a fixed-size linear structure. |
-| 37 | [Programme_37.java](./%23UNIVERSITY/DSA/src/Programme_37.java) | Linked-list-based stack implementation where each node stores data and next reference. Demonstrates dynamic stack operations (push, pop, peek) without fixed capacity limitations. |
+### **📌 Index Table**
 
+| S.No | Program Title                   | Description                                                         | File Link                                                      |
+| ---- | ------------------------------- | ------------------------------------------------------------------- | -------------------------------------------------------------- |
+| 1    | Input and Display Array         | Input and display elements of an array.                             | [Programme_01.java](./%23UNIVERSITY/DSA/src/Programme_01.java) |
+| 2    | Reverse Array Display           | Display array elements in reverse order.                            | [Programme_02.java](./%23UNIVERSITY/DSA/src/Programme_02.java) |
+| 3    | Insert Elements Interactively   | Insert elements interactively into an array.                        | [Programme_03.java](./%23UNIVERSITY/DSA/src/Programme_03.java) |
+| 4    | Reverse Array In-Place          | Reverse array elements in place.                                    | [Programme_04.java](./%23UNIVERSITY/DSA/src/Programme_04.java) |
+| 5    | Sum of Array Elements           | Find sum of all elements in an array.                               | [Programme_05.java](./%23UNIVERSITY/DSA/src/Programme_05.java) |
+| 6    | Middle Element of Array         | Find the middle element of an array.                                | [Programme_06.java](./%23UNIVERSITY/DSA/src/Programme_06.java) |
+| 7    | Insert at Specific Index        | Insert an element at a specific index in an array.                  | [Programme_07.java](./%23UNIVERSITY/DSA/src/Programme_07.java) |
+| 8    | Delete Array Element            | Delete a specific element from an array.                            | [Programme_08.java](./%23UNIVERSITY/DSA/src/Programme_08.java) |
+| 9    | Remove Last Element             | Remove the last element from an array.                              | [Programme_09.java](./%23UNIVERSITY/DSA/src/Programme_09.java) |
+| 10   | Remove User-Specified Element   | Remove a user-specified element from an array.                      | [Programme_10.java](./%23UNIVERSITY/DSA/src/Programme_10.java) |
+| 11   | 2D Array Input & Display        | Create and display a 2D array using user input.                     | [Programme_11.java](./%23UNIVERSITY/DSA/src/Programme_11.java) |
+| 12   | 2D Array Operations             | Perform sum, min/max, and even/odd count in a 2D array.             | [Programme_12.java](./%23UNIVERSITY/DSA/src/Programme_12.java) |
+| 13   | Jagged Array Operations         | Work with a jagged array and compute sum, min/max, even/odd counts. | [Programme_13.java](./%23UNIVERSITY/DSA/src/Programme_13.java) |
+| 14   | Number & Star Patterns          | Display number and star patterns using nested loops.                | [Programme_14.java](./%23UNIVERSITY/DSA/src/Programme_14.java) |
+| 15   | Factorial Using Recursion       | Find factorial of a number using recursion.                         | [Programme_15.java](./%23UNIVERSITY/DSA/src/Programme_15.java) |
+| 16   | Fibonacci (Recursive)           | Find nth Fibonacci number using recursion.                          | [Programme_16.java](./%23UNIVERSITY/DSA/src/Programme_16.java) |
+| 17   | Fibonacci (Iterative)           | Find nth Fibonacci number using iterative method.                   | [Programme_17.java](./%23UNIVERSITY/DSA/src/Programme_17.java) |
+| 18   | Recursive Descending Print      | Print numbers recursively in descending order.                      | [Programme_18.java](./%23UNIVERSITY/DSA/src/Programme_18.java) |
+| 19   | Recursive Print Method          | Print numbers recursively using a helper method.                    | [Programme_19.java](./%23UNIVERSITY/DSA/src/Programme_19.java) |
+| 20   | Head & Tail Recursion Demo      | Demonstrate head and tail recursion for printing.                   | [Programme_20.java](./%23UNIVERSITY/DSA/src/Programme_20.java) |
+| 21   | Sum Using Accumulator Recursion | Calculate sum of natural numbers using accumulator-style recursion. | [Programme_21.java](./%23UNIVERSITY/DSA/src/Programme_21.java) |
+| 22   | Search Two Numbers              | Search two given numbers in an array using linear search.           | [Programme_22.java](./%23UNIVERSITY/DSA/src/Programme_22.java) |
+| 23   | Binary Search                   | Implement binary search on a sorted array.                          | [Programme_23.java](./%23UNIVERSITY/DSA/src/Programme_23.java) |
+| 24   | First & Last Occurrence         | Find first and last occurrence of a number in a sorted array.       | [Programme_24.java](./%23UNIVERSITY/DSA/src/Programme_24.java) |
+| 25   | Selection Sort                  | Sort an array using Selection Sort algorithm.                       | [Programme_25.java](./%23UNIVERSITY/DSA/src/Programme_25.java) |
+| 26   | Dynamic Jagged Arrays           | Create multiple arrays (jagged 2D) dynamically using user input.    | [Programme_26.java](./%23UNIVERSITY/DSA/src/Programme_26.java) |
+| 27   | Merge Sort                      | Sort an array using Merge Sort algorithm.                           | [Programme_27.java](./%23UNIVERSITY/DSA/src/Programme_27.java) |
+| 28   | Dutch National Flag Sort        | Sort an array of 0s, 1s, and 2s in O(n) time.                       | [Programme_28.java](./%23UNIVERSITY/DSA/src/Programme_28.java) |
+| 30   | Custom LinkedList               | LinkedList implementation with insert/delete/get/display.           | [Programme_30.java](./%23UNIVERSITY/DSA/src/Programme_30.java) |
+| 31   | Doubly Linked List              | Doubly linked list with tail insertion & forward traversal.         | [Programme_31.java](./%23UNIVERSITY/DSA/src/Programme_31.java) |
+| 32   | Polynomial Using LinkedList     | Polynomial representation using singly linked list.                 | [Programme_32.java](./%23UNIVERSITY/DSA/src/Programme_32.java) |
+| 33   | Reverse Linked List             | Reverse a singly linked list using pointer rewiring.                | [Programme_33.java](./%23UNIVERSITY/DSA/src/Programme_33.java) |
+| 34   | Graph (Adjacency List)          | Graph implementation supporting directed/undirected edges.          | [Programme_34.java](./%23UNIVERSITY/DSA/src/Programme_34.java) |
+| 35   | DFS Traversal                   | DFS traversal on an undirected graph.                               | [Programme_35.java](./%23UNIVERSITY/DSA/src/Programme_35.java) |
+| 36   | Stack (Array-Based)             | Array-based stack implementation.                                   | [Programme_36.java](./%23UNIVERSITY/DSA/src/Programme_36.java) |
+| 37   | Stack (Linked List)             | Linked-list-based dynamic stack implementation.                     | [Programme_37.java](./%23UNIVERSITY/DSA/src/Programme_37.java) |
 
 ---
 # 📘 GITHUB Programming Challenges Index
