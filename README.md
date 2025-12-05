@@ -61,6 +61,9 @@
 | 32 | [Programme_32.java](./%23UNIVERSITY/DSA/src/Programme_32.java) | Polynomial representation using a singly linked list, storing coefficients and exponents in each node. Shows how traversal reconstructs the polynomial expression. |
 | 33 | [Programme_33.java](./%23UNIVERSITY/DSA/src/Programme_33.java) | Reversing a singly linked list using pointer rewiring (`prev`, `curr`, `next`). Performs in-place list reversal with O(n) time and O(1) space complexity. |
 | 34 | [Programme_34.java](./%23UNIVERSITY/DSA/src/Programme_34.java) | Graph implementation using an adjacency list, supporting directed and undirected edges. Demonstrates efficient representation of graph connectivity and neighbor traversal. |
+| 35 | [Programme_35.java](./%23UNIVERSITY/DSA/src/Programme_35.java) | Depth First Search (DFS) traversal on an undirected graph using an adjacency list. Demonstrates recursive DFS and visited-array based tracking of explored vertices. |
+| 36 | [Programme_36.java](./%23UNIVERSITY/DSA/src/Programme_36.java) | Array-based stack implementation supporting push, pop, peek, isFull, and isEmpty operations. Illustrates basic stack behavior using a fixed-size linear structure. |
+| 37 | [Programme_37.java](./%23UNIVERSITY/DSA/src/Programme_37.java) | Linked-list-based stack implementation where each node stores data and next reference. Demonstrates dynamic stack operations (push, pop, peek) without fixed capacity limitations. |
 
 
 ---
