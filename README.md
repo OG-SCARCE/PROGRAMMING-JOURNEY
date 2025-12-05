@@ -50,22 +50,23 @@
 | 18   | Recursive Descending Print      | Print numbers recursively in descending order.                      | [Programme_18.java](./%23UNIVERSITY/DSA/src/Programme_18.java) |
 | 19   | Recursive Print Method          | Print numbers recursively using a helper method.                    | [Programme_19.java](./%23UNIVERSITY/DSA/src/Programme_19.java) |
 | 20   | Head & Tail Recursion Demo      | Demonstrate head and tail recursion for printing.                   | [Programme_20.java](./%23UNIVERSITY/DSA/src/Programme_20.java) |
-| 21   | Sum Using Accumulator Recursion | Calculate sum of natural numbers using accumulator-style recursion. | [Programme_21.java](./%23UNIVERSITY/DSA/src/Programme_21.java) |
-| 22   | Search Two Numbers              | Search two given numbers in an array using linear search.           | [Programme_22.java](./%23UNIVERSITY/DSA/src/Programme_22.java) |
+| 21   | Sum Using Accumulator Recursion | Calculate sum using accumulator-style recursion.                    | [Programme_21.java](./%23UNIVERSITY/DSA/src/Programme_21.java) |
+| 22   | Search Two Numbers              | Search two numbers in an array.                                     | [Programme_22.java](./%23UNIVERSITY/DSA/src/Programme_22.java) |
 | 23   | Binary Search                   | Implement binary search on a sorted array.                          | [Programme_23.java](./%23UNIVERSITY/DSA/src/Programme_23.java) |
-| 24   | First & Last Occurrence         | Find first and last occurrence of a number in a sorted array.       | [Programme_24.java](./%23UNIVERSITY/DSA/src/Programme_24.java) |
-| 25   | Selection Sort                  | Sort an array using Selection Sort algorithm.                       | [Programme_25.java](./%23UNIVERSITY/DSA/src/Programme_25.java) |
-| 26   | Dynamic Jagged Arrays           | Create multiple arrays (jagged 2D) dynamically using user input.    | [Programme_26.java](./%23UNIVERSITY/DSA/src/Programme_26.java) |
-| 27   | Merge Sort                      | Sort an array using Merge Sort algorithm.                           | [Programme_27.java](./%23UNIVERSITY/DSA/src/Programme_27.java) |
-| 28   | Dutch National Flag Sort        | Sort an array of 0s, 1s, and 2s in O(n) time.                       | [Programme_28.java](./%23UNIVERSITY/DSA/src/Programme_28.java) |
-| 30   | Custom LinkedList               | LinkedList implementation with insert/delete/get/display.           | [Programme_30.java](./%23UNIVERSITY/DSA/src/Programme_30.java) |
-| 31   | Doubly Linked List              | Doubly linked list with tail insertion & forward traversal.         | [Programme_31.java](./%23UNIVERSITY/DSA/src/Programme_31.java) |
-| 32   | Polynomial Using LinkedList     | Polynomial representation using singly linked list.                 | [Programme_32.java](./%23UNIVERSITY/DSA/src/Programme_32.java) |
-| 33   | Reverse Linked List             | Reverse a singly linked list using pointer rewiring.                | [Programme_33.java](./%23UNIVERSITY/DSA/src/Programme_33.java) |
-| 34   | Graph (Adjacency List)          | Graph implementation supporting directed/undirected edges.          | [Programme_34.java](./%23UNIVERSITY/DSA/src/Programme_34.java) |
-| 35   | DFS Traversal                   | DFS traversal on an undirected graph.                               | [Programme_35.java](./%23UNIVERSITY/DSA/src/Programme_35.java) |
+| 24   | First & Last Occurrence         | Find first and last occurrence in a sorted array.                   | [Programme_24.java](./%23UNIVERSITY/DSA/src/Programme_24.java) |
+| 25   | Selection Sort                  | Sort an array using Selection Sort.                                 | [Programme_25.java](./%23UNIVERSITY/DSA/src/Programme_25.java) |
+| 26   | Dynamic Jagged Arrays           | Create multiple (jagged) arrays using user input.                   | [Programme_26.java](./%23UNIVERSITY/DSA/src/Programme_26.java) |
+| 27   | Merge Sort                      | Sort an array using Merge Sort.                                     | [Programme_27.java](./%23UNIVERSITY/DSA/src/Programme_27.java) |
+| 28   | Dutch National Flag Sort        | Sort 0s, 1s, and 2s in O(n).                                         | [Programme_28.java](./%23UNIVERSITY/DSA/src/Programme_28.java) |
+| 30   | Custom LinkedList               | Custom LinkedList with insert/delete/get/display.                   | [Programme_30.java](./%23UNIVERSITY/DSA/src/Programme_30.java) |
+| 31   | Doubly Linked List              | Doubly linked list with tail insertion.                             | [Programme_31.java](./%23UNIVERSITY/DSA/src/Programme_31.java) |
+| 32   | Polynomial Using LinkedList     | Polynomial representation using linked list.                        | [Programme_32.java](./%23UNIVERSITY/DSA/src/Programme_32.java) |
+| 33   | Reverse Linked List             | Reverse a singly linked list.                                       | [Programme_33.java](./%23UNIVERSITY/DSA/src/Programme_33.java) |
+| 34   | Graph (Adjacency List)          | Graph implementation (directed/undirected).                         | [Programme_34.java](./%23UNIVERSITY/DSA/src/Programme_34.java) |
+| 35   | DFS Traversal                   | Depth-first traversal on a graph.                                   | [Programme_35.java](./%23UNIVERSITY/DSA/src/Programme_35.java) |
 | 36   | Stack (Array-Based)             | Array-based stack implementation.                                   | [Programme_36.java](./%23UNIVERSITY/DSA/src/Programme_36.java) |
-| 37   | Stack (Linked List)             | Linked-list-based dynamic stack implementation.                     | [Programme_37.java](./%23UNIVERSITY/DSA/src/Programme_37.java) |
+| 37   | Stack (Linked List)             | Linked-list-based dynamic stack.                                    | [Programme_37.java](./%23UNIVERSITY/DSA/src/Programme_37.java) |
+| 38   | Circular Queue (Array)          | Circular queue using array with wrap-around indexing.               | [Programme_38.java](./%23UNIVERSITY/DSA/src/Programme_38.java) |
 
 ---
 # 📘 GITHUB Programming Challenges Index
