@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da7bcc14-e2ac-449d-b2e1-f8e57ca37d47" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/#UNIVERSITY/DSA/src/Programme_39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#UNIVERSITY/DSA/src/Programme_40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#UNIVERSITY/DSA/src/Programme_41.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,30 +34,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Challenge_01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Challenge_08.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Challenge_09.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Programme_01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Programme_28.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Programme_31.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Programme_32.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Programme_33.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Programme_34.executor&quot;: &quot;Run&quot;,
-    &quot;Application.programme_05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.programme_11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.programme_12.executor&quot;: &quot;Run&quot;,
-    &quot;Application.programme_14.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Challenge_01.executor": "Run",
+    "Application.Challenge_08.executor": "Run",
+    "Application.Challenge_09.executor": "Run",
+    "Application.Programme_01.executor": "Run",
+    "Application.Programme_28.executor": "Run",
+    "Application.Programme_31.executor": "Run",
+    "Application.Programme_32.executor": "Run",
+    "Application.Programme_33.executor": "Run",
+    "Application.Programme_34.executor": "Run",
+    "Application.Programme_41.executor": "Run",
+    "Application.programme_05.executor": "Run",
+    "Application.programme_11.executor": "Run",
+    "Application.programme_12.executor": "Run",
+    "Application.programme_14.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="da7bcc14-e2ac-449d-b2e1-f8e57ca37d47" name="Changes" comment="" />
