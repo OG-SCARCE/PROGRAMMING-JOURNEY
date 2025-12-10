@@ -11,9 +11,14 @@ public class Programme_41 {
 
     //Recursive method
     public static int powRecursive(int a, int n) {
-        if (n == 0) return 1;
-        return a * powRecursive(a, n - 1);
+        return helper(a, n, 1);
     }
+
+    private static int helper(int a, int n, int acc) {
+        if (n == 0) return acc;
+        return helper(a, n - 1, acc * a);
+    }
+
 
     public static void main(String[] args) {
         Scanner input = new Scanner (System.in);
