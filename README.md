@@ -67,6 +67,11 @@
 | 36   | Stack (Array-Based)             | Array-based stack implementation.                                   | [Programme_36.java](./%23UNIVERSITY/DSA/src/Programme_36.java) |
 | 37   | Stack (Linked List)             | Linked-list-based dynamic stack.                                    | [Programme_37.java](./%23UNIVERSITY/DSA/src/Programme_37.java) |
 | 38   | Circular Queue (Array)          | Circular queue using array with wrap-around indexing.               | [Programme_38.java](./%23UNIVERSITY/DSA/src/Programme_38.java) |
+| 39   | Count Primes (Naive)            | Counts primes below 25 using simple iteration.                      | [Programme_39.java](./%23UNIVERSITY/DSA/src/Programme_39.java) |
+| 40   | Sieve of Eratosthenes           | Efficient prime counting under 25 using sieve.                      | [Programme_40.java](./%23UNIVERSITY/DSA/src/Programme_40.java) |
+| 41   | Power Function (Iterative/Rec.) | Computes Aⁿ using iterative and recursive methods.                  | [Programme_41.java](./%23UNIVERSITY/DSA/src/Programme_41.java) |
+
+
 
 ---
 # 📘 GITHUB Programming Challenges Index
