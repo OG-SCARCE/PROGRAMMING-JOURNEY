@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da7bcc14-e2ac-449d-b2e1-f8e57ca37d47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/#UNIVERSITY/CSES/src/Problem_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#UNIVERSITY/DAA/src/ArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#UNIVERSITY/DSA/src/Programme_43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#UNIVERSITY/DSA/src/Programme_44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#UNIVERSITY/JAVA/src/programme_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#UNIVERSITY/JAVA/src/programme_16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PROGRAMMING-SEM-III.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PROGRAMMING-SEM-III.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#UNIVERSITY/DAA/src/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +48,7 @@
     "Application.Programme_34.executor": "Run",
     "Application.Programme_41.executor": "Run",
     "Application.Programme_42.executor": "Run",
+    "Application.QuickSort.executor": "Run",
     "Application.programme_05.executor": "Run",
     "Application.programme_11.executor": "Run",
     "Application.programme_12.executor": "Run",
