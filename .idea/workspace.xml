@@ -5,13 +5,94 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da7bcc14-e2ac-449d-b2e1-f8e57ca37d47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/#UNIVERSITY/DAA/src/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#UNIVERSITY/DAA/src/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#UNIVERSITY/DAA/src/GraphColoring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#UNIVERSITY/DAA/src/MaxOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#UNIVERSITY/DAA/src/MinAndMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#UNIVERSITY/DAA/src/OneToN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#UNIVERSITY/DAA/src/ProductOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#UNIVERSITY/DAA/src/XtoThePowerN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#UNIVERSITY/DAA/src/nQueens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#UNIVERSITY/CSES/src/Problem_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/#UNIVERSITY/PYTHON/.idea/PYTHON.iml" beforeDir="false" afterPath="$PROJECT_DIR$/#UNIVERSITY/PYTHON/.idea/PYTHON.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#UNIVERSITY/PYTHON/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/#UNIVERSITY/PYTHON/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/ATMException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/ATMException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/ArrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/ArrayStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_23.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_23.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_24.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_25.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_25.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_26.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_26.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_27.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_27.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_28.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_28.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_29.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_29.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_30.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_30.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_31.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Challenge_31.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/CurrentAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/CurrentAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/InsufficientBalanceException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/InsufficientBalanceException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/InvalidPINException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/InvalidPINException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/LowAmountException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/LowAmountException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/MatrixTranspose.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/MatrixTranspose.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Problem_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/SavingAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/SavingAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Section52.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Section52.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_02$Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_02$Box.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PROGRAMMING-SEM-III/programme_15.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="295" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,6 +104,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;OG-SCARCE&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/OG-SCARCE/PROGRAMMING-JOURNEY.git&quot;,
+    &quot;accountId&quot;: &quot;b5063fd0-1493-485e-ac8d-1d704e30f5a2&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;807a704d&quot;,
   &quot;associatedIndex&quot;: 4
@@ -32,41 +129,80 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayStack.executor": "Run",
-    "Application.Challenge_01.executor": "Run",
-    "Application.Challenge_08.executor": "Run",
-    "Application.Challenge_09.executor": "Run",
-    "Application.MatrixTranspose.executor": "Run",
-    "Application.Problem_1.executor": "Run",
-    "Application.Programme_01.executor": "Run",
-    "Application.Programme_28.executor": "Run",
-    "Application.Programme_31.executor": "Run",
-    "Application.Programme_32.executor": "Run",
-    "Application.Programme_33.executor": "Run",
-    "Application.Programme_34.executor": "Run",
-    "Application.Programme_41.executor": "Run",
-    "Application.Programme_42.executor": "Run",
-    "Application.QuickSort.executor": "Run",
-    "Application.programme_05.executor": "Run",
-    "Application.programme_11.executor": "Run",
-    "Application.programme_12.executor": "Run",
-    "Application.programme_14.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/User/Desktop/HELP/PROGRAMMING-SEM-III/DAA/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AdjacencyMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayStack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Challenge_01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Challenge_08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Challenge_09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MatrixTranspose.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxOfArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinAndMax.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OneToN.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimsAlgorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductOfArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Programme_01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Programme_28.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Programme_31.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Programme_32.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Programme_33.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Programme_34.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Programme_41.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Programme_42.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QuickSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.XtoThePowerN.executor&quot;: &quot;Run&quot;,
+    &quot;Application.programme_05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.programme_11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.programme_12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.programme_14.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/scarce/Desktop/SCARCE/PROGRAMMING-JOURNEY&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/User/Desktop/HELP/PROGRAMMING-SEM-III/DAA/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\Desktop\HELP\PROGRAMMING-SEM-III\#UNIVERSITY" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory">
+      <steps>
+        <latexmkCompile id="6e46689e-737f-4f34-98d9-de646c73c3f4" />
+        <pdfViewer id="a6f7de61-3af8-4467-9a10-8dbd5eee9185" />
+      </steps>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.337" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.337" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -75,7 +211,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1759985603123</updated>
+      <workItem from="1777350563833" duration="494000" />
+      <workItem from="1777352041061" duration="480000" />
+      <workItem from="1777352916617" duration="927000" />
+      <workItem from="1777357081872" duration="241000" />
+      <workItem from="1777524634471" duration="923000" />
+      <workItem from="1777525599324" duration="980000" />
+      <workItem from="1777531628367" duration="5000" />
+      <workItem from="1777867532110" duration="797000" />
+      <workItem from="1777869039629" duration="2488000" />
+      <workItem from="1778491896101" duration="6000" />
+      <workItem from="1778644112656" duration="157000" />
+      <workItem from="1779079556701" duration="55000" />
+      <workItem from="1786161694696" duration="4201000" />
+      <workItem from="1786168277448" duration="2454000" />
+      <workItem from="1786175738589" duration="6080000" />
+      <workItem from="1786192854978" duration="2478000" />
+      <workItem from="1786504045869" duration="2919000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
